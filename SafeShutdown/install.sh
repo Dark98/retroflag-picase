@@ -1,5 +1,5 @@
 #!/bin/bash
-filewebsite="https://raw.githubusercontent.com/Dark98/retroflag-picase/master"
+filewebsite="https://raw.githubusercontent.com/Dark98/retroflag-picase/master/SafeShutdown"
 sleep 2s
 #Step 1) Check if root--------------------------------------
 if [[ $EUID -ne 0 ]]; then
